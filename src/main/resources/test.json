@@ -1,0 +1,24 @@
+{
+  "id": "0001",
+  "firstName": "aaa",
+  "lastName": "qqqq",
+  "age": 45,
+  "country": "FRANCE",
+  "address": "here"
+},
+{
+"id": "0002",
+"firstName": "rrr",
+"lastName": "ttt",
+"age": 30,
+"country": "MOROCCO",
+"address": "there"
+},
+{
+"id": "0003",
+"firstName": "ccc",
+"lastName": "arnaud",
+"age": 33,
+"country": "SPAIN",
+"address": "somewhere"
+}
