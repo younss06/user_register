@@ -1,0 +1,1 @@
+INSERT INTO register_db.users (_id, _class, address, age, country, firstName, lastName) VALUES (60c0124853d89e6d9745ed35, 'com.register.model.UserModel', 'here', 20, '{ "$ref" : "countries", "$id" : "60c0103b53d89e6d9745ed33" }', 'younuss', 'elkassmi');
