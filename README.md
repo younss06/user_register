@@ -1,7 +1,7 @@
 # How to start
 
 ### DB
-To Use MongoDB, install MongoDB server.
+To use MongoDB, install MongoDB server.
 Or install Docker then run the following script
  
 ```
@@ -19,4 +19,4 @@ Add to your maven settings the following profile
 
 The REST end points can be reached at [http://localhost:8090/api/docs/index.html](http://localhost:8090/api/docs/index.html) 
 
-For more informations let's Documentation.docx
+For more informations let's see Documentation.docx
