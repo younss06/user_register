@@ -1,2 +1,11 @@
-INSERT INTO register_db.countries (_id, _class, allowed, code, "value") VALUES (60c0103b53d89e6d9745ed33, 'com.register.model.CountryModel', true, 'FR', 'FRANCE');
-INSERT INTO register_db.countries (_id, _class, allowed, code, "value") VALUES (60c0106f53d89e6d9745ed34, 'com.register.model.CountryModel', true, 'BL', 'BELGIUM');
+-- insert two countries in database
+
+db.countries.insert({
+    "allowed": true,
+    "code": "fr",
+    "value": "France"});
+
+db.countries.insert({
+    "allowed": true,
+    "code": "bl",
+    "value": "Belgique"});
